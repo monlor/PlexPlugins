@@ -11,7 +11,7 @@ from urllib2 import HTTPError
 import httplib
 
 
-SUBHD_API = 'http://www.subhd.com/search/%s'
+SUBHD_API = 'https://subhd.tv/search/%s'
 # OS_LANGUAGE_CODES = 'http://www.opensubtitles.org/addons/export_languages.php'
 SUBHD_PLEX_USERAGENT = 'plexapp.com v9.0'
 subtitleExt       = ['utf','utf8','utf-8','sub','srt','smi','rt','ssa','aqt','jss','ass','idx']
